@@ -1,0 +1,11 @@
+directories:
+  output: E:\0_MZMusic\MZMusic\release
+  buildResources: build
+  app: E:\0_MZMusic\MZMusic\dist
+appId: com.example.app
+productName: vite-electron
+asar: true
+nsis:
+  oneClick: false
+files: []
+electronVersion: 25.3.2
